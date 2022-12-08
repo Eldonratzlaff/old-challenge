@@ -1,0 +1,31 @@
+.main-doc{
+
+}
+body{
+ background-color: aqua;
+ font-family: Arial, Helvetica, sans-serif ;
+ margin: 0;
+
+}
+nav{
+    background-color: green;
+    color:white;
+    display: flex;
+    justify-content: flex-end;
+    margin: 0px;
+    width: 200px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+
+}
+nav header{
+    position: fixed;
+    font-size: x-large;
+}
+main{
+    margin: 160px;
+}
+
+
